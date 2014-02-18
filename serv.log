@@ -1,0 +1,15 @@
+Arguments: node,c:\Documents and Settings\5023\Application Data\npm\node_modules\scripted\node_modules\serv\static-server.js,8000,e:/CouchDbSamples
+Serving files from e:/CouchDbSamples at 127.0.0.1:8000
+LiveReload server listening on port 35729.
+Client connected (C1)
+Received command info: {"command":"info","plugins":{"less":{"disable":false,"version":"1.0"}},"url":"http://127.0.0.1:9000/"}
+Client connected (C2)
+Received command info: {"command":"info","plugins":{"less":{"disable":false,"version":"1.0"}},"url":"http://127.0.0.1:9000/"}
+Client connected (C3)
+Received command info: {"command":"info","plugins":{"less":{"disable":false,"version":"1.0"}},"url":"http://127.0.0.1:9000/"}
+Shutting down...
+Arguments: node,c:\Documents and Settings\5023\Application Data\npm\node_modules\scripted\node_modules\serv\static-server.js,8000,e:/CouchDbSamples
+Serving files from e:/CouchDbSamples at 127.0.0.1:8000
+LiveReload server listening on port 35729.
+Client connected (C1)
+Received command info: {"command":"info","plugins":{"less":{"disable":false,"version":"1.0"}},"url":"http://127.0.0.1:9000/"}
