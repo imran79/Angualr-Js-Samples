@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Angualr-Js-Samples.iml" filepath="$PROJECT_DIR$/.idea/Angualr-Js-Samples.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/CouchDbSamples.iml" filepath="$PROJECT_DIR$/.idea/CouchDbSamples.iml" />
+>>>>>>> 3c6682ebd260c375aada7fe252517fb9c926fcbb
     </modules>
   </component>
 </project>
